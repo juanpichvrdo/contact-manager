@@ -10,3 +10,5 @@ To build the app for production to the `build` folder.<br>
 Initial contacts pulled from JSONPlaceholder API (https://jsonplaceholder.typicode.com/).
 
 Used React Context API to manage the state.
+
+Used bootstratp for styling.
